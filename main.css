@@ -1,0 +1,27 @@
+html, body {
+	height: 100%;
+}
+
+#tl, #tm, #tr {
+	float: left;
+	width: 33.33%;
+	height: 33.33%;
+	border: 1px solid black;
+	box-sizing: border-box;
+}
+
+#ml, #mm, #mr {
+	float: left;
+	width: 33.33%;
+	height: 33.33%;
+	border: 1px solid black;
+	box-sizing: border-box;
+}
+
+#bl, #bm, #br {
+	float: left;
+	width: 33.33%;
+	height: 33.33%;
+	border: 1px solid black;
+	box-sizing: border-box;
+}
